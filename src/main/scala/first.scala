@@ -1,6 +1,6 @@
 object first {
   def main(args:Array[String]):Unit={
 
-  print("Hello world")
+    print("Hello Mahi")
   }
 }
